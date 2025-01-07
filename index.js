@@ -48,8 +48,19 @@ let mcd = prompt("Name this sandwich: Big ---");
 // logs "mack" once
 
 // ATTEMPT THREE: 
-console.log((mcd + "k ").repeat(3)); 
+// console.log((mcd + "k ").repeat(3)); 
 //logs "mack mack mack"
+
+// Just realized "Mack" is HER LAST NAME and I should capitalize it:
+
+// console.log(capitalizeFirstLetter(mcd));
+// logs "Mac"
+
+// console.log((capitalizeFirstLetter(mcd)) + "k");
+// logs "Mack"
+
+console.log(((capitalizeFirstLetter(mcd)) + "k ").repeat(3));
+//logs "Mack Mack Mack"
 
 let wednesday = prompt("What is the Addams family's favorite color?");
 console.log("All dressed in" + (" " + wednesday).repeat(3));
