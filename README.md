@@ -15,4 +15,4 @@ This is the part that is not commented out:
 Directions: 
 
 1. Answer all the questions in the prompts. 
-2. When you get to the end of the prompts, go to INSPECT and check your CONSOLE LOG for a surprise. 
+2. When you get to the end of the prompts, go to INSPECT and check your CONSOLE LOG for a surprise. # javascript-intro
